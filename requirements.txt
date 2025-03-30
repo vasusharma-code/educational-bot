@@ -1,0 +1,7 @@
+openai
+PyPDF2
+langchain
+faiss-cpu
+python-dotenv
+tiktoken
+fpdf

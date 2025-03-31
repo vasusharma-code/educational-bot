@@ -102,7 +102,6 @@ def chat_with_ai(user_query):
     except Exception as e:
         print(f"⚠️ AI Error: {e}")
         return "⚠️ Something went wrong. Try again."
-
 # ------------------------ Interactive Chatbot ------------------------ #
 def chatbot():
     """AI chatbot that answers questions about topics directly."""
